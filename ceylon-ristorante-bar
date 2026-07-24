@@ -1,0 +1,18 @@
+ceylon-ristorante-bar
+
+│
+├── index.html
+├── menu.html
+├── reservation.html
+├── contact.html
+│
+├── css
+│   └── style.css
+│
+├── js
+│   └── script.js
+│
+└── images
+    ├── logo.png
+    ├── restaurant.jpg
+    └── dishes
